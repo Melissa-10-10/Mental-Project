@@ -35,6 +35,7 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    .patients
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/4f4a1b0642993f0131eb87eeaaa2a043ba7e01eb/Screenshot%20(217).png)
    .thearapies
+   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/70787dcfaf5cd2da7ce7c17e9da7232097b09998/Screenshot%20(218).png)
    .sessions
    .sequence session
    .triggers sessions
