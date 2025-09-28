@@ -59,6 +59,8 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
 
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/4f32d8f89101ea507d4dc23cf4c579c9b03cfae0/Screenshot%20(224).png)
 
+   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/45e44e333800aa422731f335b01cd593502ca1ea/Screenshot%20(225).png)
+
     
 #STEP 4
    Window functions
