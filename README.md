@@ -3,7 +3,7 @@
 # Project overview
 This repository contains a mental project. 
 This project involves some functins like ranking,aggregation,navigation and distribution to extract actionable results aboout therapy usage,patient engagement and demand trends
-Enxirnment:Oracle database 10g
+**Envirnment**:Oracle database 10g
         
 # ***STEP 1***
   # **Businesss content**
@@ -98,6 +98,23 @@ LAG() brings the previous month count into the current row.growth_pct computes t
    4.Distibution function
 NTILE(4) creates four grroups;the top quartile helps identify the clinic's most frequent patients.CUME_DIST() shows cumulative proportion at each row.
 ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/610d33a8123dae1c2dbba9b7bdd7ec46bef45076/Screenshot%20(229).png)
+
+# **STEP 6**
+
+**Descriotive (What happened)
+
+  * Example:Sessions increased from January to April, peaking in April, then fluctuated.
+  * Example:Top 5 therapies account for the majority of sessions; top quartile patients account for  60% of the therapy minutes
+
+**Diagnostic(why)**
+
+  * Example:Higher counts in the cpital(Kigali) reflect better access and available therapists.
+  * Example:Campaigns, workshops, or seasonal factors may expalin spikes
+
+**Prescriptive(What next)**
+  *Example:Expand teletherapy to rural regions to even out access.
+  *Example:Assign more therapies in high-demand months and launch retention programs foe mid quartile patients.
+
    
      
    
