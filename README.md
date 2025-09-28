@@ -5,7 +5,7 @@ This repository contains a mental project.
 This project involves some functins like ranking,aggregation,navigation and distribution to extract actionable results aboout therapy usage,patient engagement and demand trends
 Enxirnment:Oracle database 10g
         
-## STEP 1
+# STEP 1
   # **Businesss content**
 A mental health counselling center provides sessions to patients across regions. The operations and research team needs analytics therapist allocations, identify demand patterns, and priotize follow-ups.
    
@@ -27,24 +27,24 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
 5. 3 Month moving average -AVG() OVER() with rows frame
    Rolling over sessions over last 3 months
 
-    # STEP 3
+# STEP 3
    Create user
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/089af6d120db4727d5145ee5bf47c9b88b6e71b9/Screenshot%20(216).png)
    Grant the DBA
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/56db4beb6e888c7baafdd2f77f801ca6f0fd4d98/Screenshot%20(215).png)
 
-    Tables
+**Tables**
 
- codes
-   .patients
+   **codes**
+   * patients
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/4f4a1b0642993f0131eb87eeaaa2a043ba7e01eb/Screenshot%20(217).png)
-   .thearapies
+   * thearapies
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/70787dcfaf5cd2da7ce7c17e9da7232097b09998/Screenshot%20(218).png)
-   .sessions
+   *sessions
    
-   .sequence session
+   *sequence session
    
-   .triggers sessions
+   *triggers sessions
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/ca3237e3e33142f1f09fd7073a98725b53510ea1/Screenshot%20(219).png)
    
    The result
