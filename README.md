@@ -78,6 +78,7 @@ Monthly_sessions shows the number of sessions each month.running_total accumulat
 
   3.Navigation functions
 LAG() brings the previous month count into the current row.growth_pct computes the percent cange and shows where demand rose or fell
+![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/9f05dcafd63b14ee0e7195bd7b66f0a370a55252/Screenshot%20(228).png)
 
 
    4.Distibution function
