@@ -63,20 +63,23 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
 
     
 #STEP 4
+  
+   
    Window functions
    1.Ranking Function
  The query identifies which patients are most engaged wthin ach region  bytotal minutes. RANK() highlights ties,ROW_NUMBER() gives a unique order, and PERCENT_RANK() places patients on a 0.1 scale for relative position.
+ ![image](https://github.com/Melissa-10-10/Mental-Project/blob/e71049d70af8f7d004216295f421bb7fdf8b9913/Screenshot%20(226).png)
 
 
-    2.Aggregate function
+  2.Aggregate function
 Monthly_sessions shows the number of sessions each month.running_total accumulats counts across months and helps visualize growth.
 
 
-    3.Navigation functions
+  3.Navigation functions
 LAG() brings the previous month count into the current row.growth_pct computes the percent cange and shows where demand rose or fell
 
 
-    4.Distibution function
+   4.Distibution function
 NTILE(4) creates four grroups;the top quartile helps identify the clinic's most frequent patients.CUME_DIST() shows cumulative proportion at each row.
    
      
