@@ -76,7 +76,7 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/45e44e333800aa422731f335b01cd593502ca1ea/Screenshot%20(225).png)
 
     
-#STEP 4
+# ***STEP 4***
   
    
    Window functions
@@ -99,21 +99,30 @@ LAG() brings the previous month count into the current row.growth_pct computes t
 NTILE(4) creates four grroups;the top quartile helps identify the clinic's most frequent patients.CUME_DIST() shows cumulative proportion at each row.
 ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/610d33a8123dae1c2dbba9b7bdd7ec46bef45076/Screenshot%20(229).png)
 
-# **STEP 6**
-
-**Descriotive (What happened)
+# ***STEP 6***
+ 
+**Descriptive (What happened)**
 
   * Example:Sessions increased from January to April, peaking in April, then fluctuated.
   * Example:Top 5 therapies account for the majority of sessions; top quartile patients account for  60% of the therapy minutes
+
 
 **Diagnostic(why)**
 
   * Example:Higher counts in the cpital(Kigali) reflect better access and available therapists.
   * Example:Campaigns, workshops, or seasonal factors may expalin spikes
 
+
 **Prescriptive(What next)**
   *Example:Expand teletherapy to rural regions to even out access.
   *Example:Assign more therapies in high-demand months and launch retention programs foe mid quartile patients.
+
+# ***STEP 7***
+
+**REFERENCES**
+
+
+  
 
    
      
