@@ -44,12 +44,14 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/ca3237e3e33142f1f09fd7073a98725b53510ea1/Screenshot%20(219).png)
    
    The result
+  
    .patient table
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/2ccf1987a0aa20fa58abbfdfbf2743cd31321dbc/Screenshot%20(220).png)
    
    .therapies table
    
    .session table
+   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/f1b22c6b635562ea68fe7bc763aa32e7ffecc9c1/Screenshot%20(221).png)
 
    THE ERD DIAGRAMS
 
