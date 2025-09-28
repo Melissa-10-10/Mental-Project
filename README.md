@@ -73,6 +73,7 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
 
   2.Aggregate function
 Monthly_sessions shows the number of sessions each month.running_total accumulats counts across months and helps visualize growth.
+![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/493ccb5a65ab2983c7d0c46557cafe28355fc486/Screenshot%20(227).png)
 
 
   3.Navigation functions
