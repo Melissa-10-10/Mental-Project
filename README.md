@@ -55,8 +55,10 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/f1b22c6b635562ea68fe7bc763aa32e7ffecc9c1/Screenshot%20(221).png)
 
    THE ERD DIAGRAMS
+   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/df9581bb1e62ab6dd57fc18f3ebc1f807a6f0b5e/Screenshot%20(223).png)
 
-     #STEP 4
+    
+#STEP 4
    Window functions
    1.Ranking Function
  The query identifies which patients are most engaged wthin ach region  bytotal minutes. RANK() highlights ties,ROW_NUMBER() gives a unique order, and PERCENT_RANK() places patients on a 0.1 scale for relative position.
