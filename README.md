@@ -28,9 +28,12 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/089af6d120db4727d5145ee5bf47c9b88b6e71b9/Screenshot%20(216).png)
    Grant the DBA
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/56db4beb6e888c7baafdd2f77f801ca6f0fd4d98/Screenshot%20(215).png)
-     Tables
-   codes
+
+    Tables
+
+ codes
    .patients
+   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/4f4a1b0642993f0131eb87eeaaa2a043ba7e01eb/Screenshot%20(217).png)
    .thearapies
    .sessions
    .sequence session
