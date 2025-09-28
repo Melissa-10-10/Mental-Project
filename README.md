@@ -83,6 +83,7 @@ LAG() brings the previous month count into the current row.growth_pct computes t
 
    4.Distibution function
 NTILE(4) creates four grroups;the top quartile helps identify the clinic's most frequent patients.CUME_DIST() shows cumulative proportion at each row.
+![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/610d33a8123dae1c2dbba9b7bdd7ec46bef45076/Screenshot%20(229).png)
    
      
    
