@@ -57,6 +57,8 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    THE ERD DIAGRAMS
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/df9581bb1e62ab6dd57fc18f3ebc1f807a6f0b5e/Screenshot%20(223).png)
 
+   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/4f32d8f89101ea507d4dc23cf4c579c9b03cfae0/Screenshot%20(224).png)
+
     
 #STEP 4
    Window functions
