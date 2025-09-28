@@ -1,10 +1,11 @@
 # Mental-Project
-#Project overview
+
+# Project overview
 This repository contains a mental project. 
 This project involves some functins like ranking,aggregation,navigation and distribution to extract actionable results aboout therapy usage,patient engagement and demand trends
 Enxirnment:Oracle database 10g
          ## STEP 1
-     # Businesss content
+     # **Businesss content**
 A mental health counselling center provides sessions to patients across regions. The operations and research team needs analytics therapist allocations, identify demand patterns, and priotize follow-ups.
     # Data challenge
 The clinic records session-level data, but lacks consolidated analytics to:identify top therapies by regions,monitor monthly demand trends, and segment patii=ents by engagemnt level 
