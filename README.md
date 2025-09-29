@@ -146,7 +146,10 @@ NTILE(4) creates four grroups;the top quartile helps identify the clinic's most 
 &nbsp;&nbsp;&nbsp;&nbsp;https://www.mentalhealth.org.uk/explore-mental-health/statistics  
 
 10. Oracle Live SQL. (2024). *Sample scripts – Analytic functions.* Retrieved from  
-&nbsp;&nbsp;&nbsp;&nbsp;https://livesql.oracle.com/apex/livesql/file/index.html  
+&nbsp;&nbsp;&nbsp;&nbsp;https://livesql.oracle.com/apex/livesql/file/index.html
+
+
+![image alt](https://github.com/Melissa-10-10/plsql-window-functions--KAMANZI---MELISSA-/blob/752df6092d1dfe7550f90051946627f5c0c284dc/Screenshot%20(215).png)
 
 
   
