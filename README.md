@@ -31,7 +31,7 @@ Produce insights to:identify the top 5 therapies per region per quarter;compute 
    Create user
    ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/089af6d120db4727d5145ee5bf47c9b88b6e71b9/Screenshot%20(216).png)
    Grant the DBA
-   ![image alt](https://github.com/Melissa-10-10/Mental-Project/blob/56db4beb6e888c7baafdd2f77f801ca6f0fd4d98/Screenshot%20(215).png)
+  ![image alt](https://github.com/Melissa-10-10/plsql-window-functions--KAMANZI---MELISSA-/blob/752df6092d1dfe7550f90051946627f5c0c284dc/Screenshot%20(215).png)
 
 **Tables**
 
@@ -149,7 +149,6 @@ NTILE(4) creates four grroups;the top quartile helps identify the clinic's most 
 &nbsp;&nbsp;&nbsp;&nbsp;https://livesql.oracle.com/apex/livesql/file/index.html
 
 
-![image alt](https://github.com/Melissa-10-10/plsql-window-functions--KAMANZI---MELISSA-/blob/752df6092d1dfe7550f90051946627f5c0c284dc/Screenshot%20(215).png)
 
 
   
