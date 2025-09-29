@@ -119,7 +119,34 @@ NTILE(4) creates four grroups;the top quartile helps identify the clinic's most 
 
 # ***STEP 7***
 
-**REFERENCES**
+# **REFERENCES**
+ 
+
+1. Oracle Corporation. (2024). *Oracle® Database SQL language reference 19c.* Retrieved from  
+&nbsp;&nbsp;&nbsp;&nbsp;https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/  
+
+2. Oracle Corporation. (2024). *Oracle® Database PL/SQL language reference 19c.* Retrieved from  
+&nbsp;&nbsp;&nbsp;&nbsp;https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/  
+
+3. Oracle Corporation. (2010). *Oracle® Database SQL reference 10g release 2.* Retrieved from  
+&nbsp;&nbsp;&nbsp;&nbsp;https://docs.oracle.com/cd/B19306_01/server.102/b14200/toc.htm  
+
+4. Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). Wiley.  
+
+5. Viescas, J. L., & Hernandez, M. (2020). *SQL queries for mere mortals* (4th ed.). Addison-Wesley.  
+
+6. Ben-Gan, I. (2021). *T-SQL window functions: For data analysis and beyond* (3rd ed.). Microsoft Press.  
+
+7. Ramakrishnan, R., & Gehrke, J. (2020). *Database management systems* (3rd ed.). McGraw-Hill.  
+
+8. American Psychological Association. (2023). *Mental health statistics and research.* Retrieved from  
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.apa.org/topics/mental-health/statistics  
+
+9. Mental Health Foundation. (2023). *Data on mental health engagement.* Retrieved from  
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.mentalhealth.org.uk/explore-mental-health/statistics  
+
+10. Oracle Live SQL. (2024). *Sample scripts – Analytic functions.* Retrieved from  
+&nbsp;&nbsp;&nbsp;&nbsp;https://livesql.oracle.com/apex/livesql/file/index.html  
 
 
   
